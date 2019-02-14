@@ -8,6 +8,9 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
+}
+
+h1{
     font-size: 70px;
     font-weight: bold;
     color: white;
@@ -19,5 +22,6 @@ a:link, a:visited{
     font-size: 18px;
     text-align: center;
     text-decoration: underline;
+    margin: 0;
     padding: 0%;
 }

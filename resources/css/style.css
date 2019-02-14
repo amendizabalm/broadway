@@ -3,7 +3,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#header{
+#header, .design{
     background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
     background-size: cover;
     background-repeat: no-repeat;
@@ -35,6 +35,18 @@ h2,h3{
     font-weight: bold;
 }
 
+h2{
+    font-size: 32px;
+}
+
+h3{
+    font-size: 23px;
+}
+
 p{
     font-size: 14px;
+}
+
+#division{
+    color: white;
 }

@@ -50,3 +50,14 @@ p{
 #division{
     color: white;
 }
+
+footer{
+    background-color: dimgray;
+    text-align: left;
+    font-weight: bold;
+}
+
+#small{
+    font-size: 11px;
+    color: white;
+}
